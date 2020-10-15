@@ -1,3 +1,6 @@
+# Heroku Deployment
+[![Deploy](https://herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # Web-Screenshot-Bot
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/14e4b6f385a44aa9b35602e3ff52a668)](https://app.codacy.com/manual/alenpaul2001/Web-Screenshot-Bot?utm_source=github.com&utm_medium=referral&utm_content=alenpaul2001/Web-Screenshot-Bot&utm_campaign=Badge_Grade_Dashboard)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
